@@ -1,0 +1,6 @@
+{
+  "name": "SoundPilot",
+  "description": "Professional acoustic measurement, venue zone engineering, target verification, and sound system optimization.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
